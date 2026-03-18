@@ -1,5 +1,7 @@
-# Netflix-Content-Analysis-SQL
-This project analyzes Netflix’s content dataset using PostgreSQL to extract meaningful business insights about content distribution, ratings, genres, countries, and release trends. The goal was to simulate real-world business questions and answer them using structured SQL queries.
+📊 Netflix Content Strategy Analysis
+🔍 Problem Statement
+
+The platform lacked clear insights into content distribution, genre popularity, and release trends.
 
 1. 📌 Project Overview
 
@@ -25,8 +27,7 @@ Content distribution by duration
 3. 🛠 Technologies Used
 
 PostgreSQL
-SQL
-GitHub
+ChatGPT (for query optimization and analysis support)
 
 4. 🔧 SQL Concepts Demonstrated
 
@@ -53,17 +54,23 @@ Duration
 Genre (Listed In)
 Description
 
-6. 📈 Key Insights
+6. 📈 Key KPIs
 
-Movies dominate the platform compared to TV Shows.
-Content production has increased significantly after 2015.
-India ranks among the top content-producing countries.
-Certain genres consistently dominate across multiple years.
-Rating distribution varies significantly between Movies and TV Shows.
+Genre Distribution
 
-7. 🚀 Project Objective
+Content Growth Over Time
 
-To demonstrate strong SQL fundamentals and analytical problem-solving by transforming raw dataset fields and extracting actionable insights using structured queries.
+Release Trends
+
+Top Categories
+
+7. 📊 Key Insights
+
+Identified dominant genres contributing majority of content
+
+Observed increasing content trends over recent years
+
+Highlighted content distribution imbalance across categories
 
 8. 📎 How to Run
 
@@ -72,4 +79,10 @@ Create table using provided schema
 Execute SQL queries in sequence
 Release trend comparison by type
 
-Genre dominance across years
+9. 💡 Business Recommendations
+
+Invest more in high-performing genres
+
+Balance content distribution across categories
+
+Focus on trending content types
